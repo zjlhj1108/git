@@ -9,6 +9,8 @@ public class B {
 		int b= 2;
 		int i=7;
 		int j=8;
+		int d= 4;
+		int e = 5;
 	}
 
 }
