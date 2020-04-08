@@ -7,6 +7,8 @@ public class B {
 		int a =1;
 		int c=3;
 		int b= 2;
+		int i=7;
+		int j=8;
 	}
 
 }
